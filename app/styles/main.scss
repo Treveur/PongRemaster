@@ -1,0 +1,18 @@
+// bower:scss
+// endbower
+
+body {
+  margin: 0;
+  padding: 0;
+  display: block;
+  background-color : #2980b9;
+  //overflow: hidden;
+}
+
+div{
+  width: 100vw;
+  height: 100vh; 
+}
+canvas {
+  display: block;
+}
