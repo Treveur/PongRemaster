@@ -4,4 +4,7 @@ function Ball (x, y) {
 }
 
 Ball.prototype.updatePostion = function() {
-};
+}
+
+Ball.prototpe.checkPosition = function() {
+}
